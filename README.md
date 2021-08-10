@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello 👋🏻
 
-<!--
-**edalvmart/edalvmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eduardo.
 
-Here are some ideas to get you started:
+I am a problem-solver engineer who enjoys working in industrial and critical environments. **Downtime is a big no for me**. FreeBSD user since I was a kid, experienced in low-level and massively-scalable-soft-real-time systems with requirements on high availability and sudden increase of upcoming traffic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always taking all kinds of projects and deadlines with the same level of commitment.
+
+Shoot me an email, let's talk about your project:
+
+```erl
+ed.alv.mart@gmail.com
+```
+
+Hope you stay awhile, and remember: [enjoy yourself](https://www.youtube.com/watch?v=qzj4gHuH2LA)
+
+
+## More about me
+
+* Currently using Erlang and studying telecomms.
+* Developing a Matrix-based platform for decentralized communications completely user-friendly.
+
+
+![](https://media.discordapp.net/attachments/853076833176518668/874731644618154014/FUN_ALLOWED.png)
