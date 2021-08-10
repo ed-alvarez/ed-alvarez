@@ -18,6 +18,7 @@ Hope you stay awhile, and remember: [enjoy yourself](https://www.youtube.com/wat
 ## More about me
 
 * Currently using Erlang and studying telecomms.
+* Upgrading my nixOS, the purely functional Linux distro, skills.
 * Developing a Matrix-based platform for decentralized communications completely user-friendly.
 
 <br/>
