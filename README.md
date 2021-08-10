@@ -12,7 +12,7 @@ Shoot me an email, let's talk about your project:
 ed.alv.mart@gmail.com
 ```
 
-Hope you stay awhile, and remember: [enjoy yourself](https://www.youtube.com/watch?v=qzj4gHuH2LA)
+Hope you stay awhile, and remember: [enjoy yourself](https://www.youtube.com/watch?v=qzj4gHuH2LA).
 
 
 ## More about me
