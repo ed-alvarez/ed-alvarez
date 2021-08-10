@@ -20,5 +20,5 @@ Hope you stay awhile, and remember: [enjoy yourself](https://www.youtube.com/wat
 * Currently using Erlang and studying telecomms.
 * Developing a Matrix-based platform for decentralized communications completely user-friendly.
 
-
-![](https://media.discordapp.net/attachments/853076833176518668/874731644618154014/FUN_ALLOWED.png)
+<br/>
+<img src="https://media.discordapp.net/attachments/853076833176518668/874731644618154014/FUN_ALLOWED.png" alt="drawing" width="200"/>
