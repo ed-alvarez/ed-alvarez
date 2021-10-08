@@ -9,7 +9,7 @@ Always taking all kinds of projects and deadlines with the same level of commitm
 Shoot me an email, let's talk about your project:
 
 ```erl
-ealvarez@dimolto.studio
+ed.alv.mart@gmail.com
 ```
 
 Hope you stay awhile, and remember: [enjoy yourself](https://www.youtube.com/watch?v=qzj4gHuH2LA).
