@@ -13,10 +13,3 @@ ed.alv.mart@gmail.com
 ```
 
 Hope you stay awhile, and remember: [enjoy yourself](https://www.youtube.com/watch?v=qzj4gHuH2LA).
-
-
-## More about me
-
-* Currently using Erlang.
-* Upgrading my nixOS, the purely functional Linux distro, skills.
-* Developing a Matrix-based platform for decentralized communications completely user-friendly.
